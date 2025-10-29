@@ -1,0 +1,21 @@
+# git config --global user.name "Kevin_Lopez_csrmona"
+# git config --global user.email "lopezcarmonakevin109@gmail.com"
+
+// dirección de tu archivo
+# cd "C:/Users/Dread/Programacion/Login"
+
+# git init
+
+# git add .
+
+# git commit -m "Primer commit"
+
+
+// la ruta de tu repositorio
+# git remote add origin https://github.com/Kevin_Lopez_carmona/Loggin.git
+
+# git branch -M main
+
+# git push -u origin main
+https://github.com/lopezcarmonakevin109-hue/homeloggin1
+(aqui esta mi repositorio)
